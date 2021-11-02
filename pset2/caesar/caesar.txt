@@ -1,0 +1,9 @@
+1. check if the program is run with 1 command-line arg
+2. check if the arg is a digit
+3. convert digit to be an int from a string
+4. use get_string for plain text
+5. iterate over the input string:
+    1. if uppercase then make sure to rotate it to another uppercase
+    2. if lowercase make sure to rotate to another lower cae
+    3. else no a alphabet then print out as is
+6. print out the ciphertext
